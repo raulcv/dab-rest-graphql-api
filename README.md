@@ -1,6 +1,6 @@
 ## Meeting Planner GraphQl Service
 
-Using .Net v6 C#, Data API Builder [![Azure DAP](https://img.shields.io/badge/nuget-0077B5?style=for-the-badge&logo=microsoft)](https://github.com/Azure/data-api-builder) 0.9.7, PostgresQL to store data and other [![NuGet](https://img.shields.io/badge/nuget-0077B5?style=for-the-badge&logo=nuget&logoColor=black)](https://www.nuget.org/) pkgs
+Using .Net v6 C#, Data API Builder [![Azure DAP](https://img.shields.io/badge/nuget-0077B5?style=for-the-badge&logo=microsoft)](https://github.com/Azure/data-api-builder) 0.9.7, PostgresQL to store data
 
 ------------
 ##### Run this project on your local machine
